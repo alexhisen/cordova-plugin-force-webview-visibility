@@ -4,7 +4,12 @@ import android.view.View;
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CordovaWebView;
 import org.apache.cordova.CordovaInterface;
+import org.apache.cordova.CallbackContext;
 import android.util.Log;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 
 public class BackgroundWatchPosition extends CordovaPlugin {
   public static final String TAG = "BGWP";
