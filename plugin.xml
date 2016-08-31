@@ -16,6 +16,10 @@
     <engine name="cordova" version=">=3.0.0"/>
   </engines>
 
+  <js-module src="www/backgroundWatchPosition.js" name="BackgroundWatchPosition">
+    <clobbers target="cordova.plugins.backgroundWatchPosition" />
+  </js-module>
+
   <!-- android -->
   <platform name="android">
 
