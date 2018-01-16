@@ -1,0 +1,29 @@
+{
+  "name": "cordova-background-watchposition",
+  "version": "1.0.0",
+  "description": "BackgroundWatchPosition Plugin ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloudscapelabs/cordova-background-watchposition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Cloudscapelabs/cordova-background-watchposition/issues"
+  },
+  "homepage": "https://github.com/Cloudscapelabs/cordova-background-watchposition#readme"
+}
