@@ -12,9 +12,12 @@
   },
   "author": "",
   "license": "ISC",
-  "platforms": [
-    "android"
-  ],
+  "cordova: {
+    "id":" cordova-plugin-force-webview-visibility",
+    "platforms": [
+      "android"
+    ],
+  },
   "engines": [
     {
       "name": "cordova",
