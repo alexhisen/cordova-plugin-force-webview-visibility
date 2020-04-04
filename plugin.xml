@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="com.geotab.BackgroundWatchPosition"
-        version="0.0.1">
+        id="cordova-plugin-force-webview-visibility"
+        version="1.0.0">
 
-  <name>Background WatchPosition</name>
+  <name>BackgroundWatchPosition</name>
 
   <description>
-    Persist watchPosition in background even on Android System WebView
+    Cordova Plugin that forces Android WebView VISIBLE status when in background to allow code to continue to run
   </description>
 
   <license>Proprietary</license>
 
   <engines>
-    <engine name="cordova" version=">=3.0.0"/>
+    <engine name="cordova" version=">=6.0.0"/>
   </engines>
 
   <!-- android -->
