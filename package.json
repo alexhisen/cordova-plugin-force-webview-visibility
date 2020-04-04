@@ -1,19 +1,18 @@
 {
-  "name": "cordova-background-watchposition",
+  "name": "cordova-plugin-force-webview-visibility",
   "version": "1.0.0",
-  "description": "BackgroundWatchPosition Plugin ======",
+  "description": "Cordova Plugin that forces Android WebView VISIBLE status when in background to allow code to continue to run",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cloudscapelabs/cordova-background-watchposition.git"
+    "url": "git+https://github.com/alexhisen/cordova-plugin-force-webview-visibility.git"
   },
   "author": "",
   "license": "ISC",
   "platforms": [
-    "ios",
     "android"
   ],
   "engines": [
@@ -23,7 +22,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/Cloudscapelabs/cordova-background-watchposition/issues"
+    "url": "https://github.com/alexhisen/cordova-plugin-force-webview-visibility/issues"
   },
-  "homepage": "https://github.com/Cloudscapelabs/cordova-background-watchposition#readme"
+  "homepage": "https://github.com/alexhisen/cordova-plugin-force-webview-visibility#readme"
 }
