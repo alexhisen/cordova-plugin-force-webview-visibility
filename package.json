@@ -2,16 +2,11 @@
   "name": "cordova-plugin-force-webview-visibility",
   "version": "1.0.0",
   "description": "Cordova Plugin that forces Android WebView VISIBLE status when in background to allow code to continue to run",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexhisen/cordova-plugin-force-webview-visibility.git"
   },
   "author": "",
-  "license": "ISC",
   "cordova": {
     "id": "cordova-plugin-force-webview-visibility",
     "platforms": [
