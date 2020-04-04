@@ -11,7 +11,7 @@
     "id": "cordova-plugin-force-webview-visibility",
     "platforms": [
       "android"
-    ],
+    ]
   },
   "engines": [
     {
