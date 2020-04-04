@@ -12,8 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "cordova: {
-    "id":" cordova-plugin-force-webview-visibility",
+  "cordova": {
+    "id": "cordova-plugin-force-webview-visibility",
     "platforms": [
       "android"
     ],
